@@ -7,7 +7,7 @@ A static website build with HTML, CSS and a bit of Javascript.
 * Javascript
 
 # Description
-This website was build as my first web development project for Xplore-SA, complete with a homepage, about, xplore, and a contact page. The travel site allows users to discover their favourite cities in South Africa, and learn more about what each of these cities has to offer. 
+This website was build as my first web development project for Xplore-SA, complete with a Homepage, About, Xplore, and a Contact page. The travel site allows users to discover their favourite cities in South Africa, and learn more about what each of these cities has to offer. 
 
 # How to navigate website
 
@@ -32,7 +32,7 @@ Information on the cities can be accessed by clicking on the images on the homep
 Contributions are welcome. To make a contribution:
 * Open an issue.
 * Fork and clone this repository.
-* send a pull request.
+* Send a pull request.
 
 # Authors 
 * [Bongekile Mncube](https://github.com/BongekileM)
