@@ -1,5 +1,5 @@
 # Xplore-SA-Website
-A static website build with HTML, CSS and a bit of Javascript. 
+A static website built with HTML, CSS and a bit of Javascript. 
 
 # Technologies Used
 * HTML5
@@ -7,7 +7,7 @@ A static website build with HTML, CSS and a bit of Javascript.
 * Javascript
 
 # Description
-This website was build as my first web development project for Xplore-SA, complete with a Homepage, About, Xplore, and a Contact page. The travel site allows users to discover their favourite cities in South Africa, and learn more about what each of these cities has to offer. 
+This website was built as my first web development project for Xplore-SA, complete with a Homepage, About, Xplore, and Contact page. The travel site allows users to discover their favourite cities in South Africa, and learn more about what each of these cities has to offer. 
 
 # How to navigate website
 
