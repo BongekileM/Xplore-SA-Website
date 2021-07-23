@@ -37,5 +37,5 @@ Contributions are welcome. To make a contribution:
 # Authors 
 * [Bongekile Mncube](https://github.com/BongekileM)
 
-# Acknowledgement
+# Acknowledgements
 * [W3Schools](https://www.w3schools.com/js/DEFAULT.asp)
