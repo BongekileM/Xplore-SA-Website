@@ -23,9 +23,6 @@ nav{
 	font-size: 18px;
 	transition: 0.3s ease-out;
 }
-.navbar .current__page{
-	color: #009688;
-}
 .navbar nav > ul > li{
     list-style: none;
     display: inline-block;
@@ -42,6 +39,10 @@ nav{
 .navbar a:hover,
 .navbar a:focus{
     color: #009688;
+}
+.navbar nav > ul > li:hover > a,
+.navbar nav > ul > li:focus-within > a{
+	color: #009688;
 }
 
 /* Drop-down menu */
