@@ -229,32 +229,24 @@ nav{
 .active{
 	background-color: #009688;
 }
-.slide{
-	display: none;
-}
-.img__slides img{
-	width: 540px;
-	height: 330px;
-	margin-top: -40%;
-	margin-left: 10%;
-	margin-bottom: -8%;
-	border-radius: 1px;
-}
-.img__border1{
-	border-top: 20px solid #009688;
+.img__slides{
 	width: 540px;
 	margin-top: 18%;
 	margin-left: 10%;
-	margin-bottom: -16.8%;
-	border-radius: 2px;
 }
-.img__border2{
-	border-top: 20px solid #009688;
-	width: 540px;
-	margin-top: 65%;
-	margin-left: 10%;
-	margin-bottom: -12.9%;
+.slide{
+	display: none;
+	margin-bottom: 24px;
+	border: 12px solid #009688;
 	border-radius: 2px;
+	overflow: hidden;
+}
+.img__slides img{
+	display: block;
+	width: 100%;
+	height: 330px;
+	margin: 0;
+	object-fit: cover;
 }
 .auto__btn{
 	display: inline-block;
